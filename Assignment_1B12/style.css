@@ -5,7 +5,7 @@ body {
 
 /* Navbar */
 .navbar {
-  background: url("Assignment/B12A01-landing-launchpad/Assets/Hero-bg.png")
+  background: url("https://png.pngtree.com/png-clipart/20230804/ourlarge/pngtree-a-beautiful-sunset-landscape-png-image_9120704.png")
     no-repeat center/cover;
   display: flex;
   justify-content: space-between;
@@ -21,7 +21,8 @@ body {
 
 /* Banner */
 .banner {
-  background: url("assets/banner.jpg") no-repeat center/cover;
+  background: url("https://img.freepik.com/premium-photo/sublime-wilderness-hazy-mountains-landscape-sunset_899449-290512.jpg")
+    no-repeat center/cover;
   text-align: center;
   padding: 120px 20px;
   color: white;
